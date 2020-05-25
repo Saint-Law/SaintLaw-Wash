@@ -5,4 +5,9 @@
     <RootNamespace>SaintLaw_Wash</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Customer\" />
+  </ItemGroup>
+
 </Project>
